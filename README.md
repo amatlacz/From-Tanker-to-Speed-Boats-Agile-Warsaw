@@ -1,13 +1,10 @@
 # From-Tanker-to-Speed-Boats
-From Tanker to Speed Boats - presentation for Agile Warsaw meetup group
+Tytuł:
+Od tankowca do motorówki - czyli o transformacjach w korporacji słów kilka.
 
+Opis:
+Wyobraź sobie, że jesteś kapitanem dużego okrętu. Czujesz potęgę stalowego kolosa, gdy fale odbijają się od twoich burt. Powoli, niezmordowanie, suniesz przez wzburzone morze. Ale co to? Czyżby zbliżał się sztorm w okolicy? Na horyzoncie pojawiła się góra lodowa? A twój pierwszy oficer dostał lepszą ofertę pracy... yyy... to znaczy wypadł przez burtę? Jeżeli szybko nie zaczniesz działać, sprawy mogą przybrać nieprzyjemny obrót...
 
-Od tankowca do motorówki
+Stanie za sterami dużej firmy przypomina sterowanie tankowcem. Z jednej strony posiadasz przewagę wynikającą ze skali, reputacji czy też ugruntowanej pozycji. Z drugiej strony bardzo trudno jest wprowadzać radykalne zmiany w sposobie prowadzenia biznesu czy też kulturze organizacyjnej. W szybko zmieniającym się świecie - w którym co chwila powstają nowe rewolucyjne produkty czy usługi, a mali gracze potrafią wywrócić branżę do góry nogami - musisz być zwinny! Ale czy to oznacza, że korporacje są skazane na klęskę...?
 
-FROM TANKER TO SPEED BOATS – A CASE STUDY FOR AGILE TRANSFORMATION IN BIG CORPORATIONS
-
-Imagine you are a captain of a tanker ship. You are steering it through a rough sea. You feel the power going through your veins when waves crashe on sides of your ship… But what is that? A storm is coming? An iceberg is in front of you? Your first mate has fallen overboard? If you do nothing – things are going to get messy very soon…
-
-Being in charge of a big corporation is like steering a tanker ship. It’s really hard to change the direction once you get forward. In a fast changing world, where you feel the breath of the competition on your neck and new startups are founded everyday – you have to be agile. You have to be lean. That is what makes Lean Startup approach so successful in the current market. But does it mean that corporations are doomed to failure…?
-
-How to make a corporation more agile? How to measure the change? What are the major challenges in the transformations of big corporations? How to spark a fire for the change in the organization and assure that it will remain long enough to see the first results? These and many more will be discussed in a case study for agile transformations in big corporations.
+W jaki sposób uczynić korporację zwinną? Jakie wyzwania stoją przed dużą firmą przeprowadzającą zmianę? Jak zapalić ludzi do idei transformacji oraz zapewnić, że potrwa ona wystarczająco długo, by zobaczyć pierwsze rezultaty? O tym oraz o moich osobistych doświadczeniach i przemyśleniach z pracy przy takiej transformacji opowiem podczas kolejnego spotkania Agile Warsaw.
