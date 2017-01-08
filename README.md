@@ -1,6 +1,7 @@
-# Od tankowca do motorówki
-## Czyli o transformacjach w korporacji słów kilka
+# Od tankowca do motorówki - Czyli o transformacjach w korporacji słów kilka
+
 Prezentacja na Agile Warsaw
+
 ##Opis
 Wyobraź sobie, że jesteś kapitanem dużego okrętu. Czujesz potęgę stalowego kolosa, gdy fale odbijają się od twoich burt. Powoli, niezmordowanie, suniesz przez wzburzone morze. Ale co to? Czyżby zbliżał się sztorm w okolicy? Na horyzoncie pojawiła się góra lodowa? A twój pierwszy oficer dostał lepszą ofertę pracy... yyy... to znaczy wypadł przez burtę? Jeżeli szybko nie zaczniesz działać, sprawy mogą przybrać nieprzyjemny obrót...
 
